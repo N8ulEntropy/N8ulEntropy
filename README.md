@@ -1,6 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 <h1 align="center">Hi 👋, I'm Yug Patel</h1>
-<h3 align="center">Full Stack Developer passionate about building modern, scalable, and user-centric applications. I enjoy creating seamless digital experiences using modern technologies, exploring new tools, and continuously learning to improve my skills.</h3>
+<h3 align="center">Game Developer | Techbharat Innovations 2024 Winner | Godot Developer | AI Developer | Founder @Origic | Ludic Game Jam 25’ Winner | HarvardX Cs50’s Class 24’
+
+</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n8ulentropy&label=Profile%20views&color=0e75b6&style=flat" alt="n8ulentropy" /> </p>
