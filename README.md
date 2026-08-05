@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/81/47/4e/81474e7b6af9b56d2981367ba095c9e6.gif)
 <h1 align="center">Hi 👋, I'm Yug Patel</h1>
 <h3 align="center">Full Stack Developer passionate about building modern, scalable, and user-centric applications. I enjoy creating seamless digital experiences using modern technologies, exploring new tools, and continuously learning to improve my skills.</h3>
-img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n8ulentropy&label=Profile%20views&color=0e75b6&style=flat" alt="n8ulentropy" /> </p>
 
